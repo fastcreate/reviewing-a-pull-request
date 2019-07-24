@@ -1,5 +1,5 @@
 ## Welcome to awesome game of Tetris
-
+ 
 A project based learning activity for people who are getting started with Git and GitHub.
 You can play the game on the GitHub Pages site for this repository.
 To play the game:
